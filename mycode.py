@@ -1,3 +1,6 @@
 print('sana')
 print('rose')
 print('saba')
+print('sana')
+print('rose')
+print('saba')
